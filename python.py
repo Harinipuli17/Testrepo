@@ -1,5 +1,6 @@
 print("hello world!")
 print("welcome to python")
 print("welcome to vscode")
-print(" wlecome to github")
-print ("welcome to copilot")
+print("wlecome to github")
+print("welcome to copilot")
+print("welcome to github copilot")
